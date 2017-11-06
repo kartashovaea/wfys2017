@@ -1,0 +1,33 @@
+nav {
+    background-color: #2F4F4F;
+    margin-bottom: 20px;
+    color:white;
+}
+
+body {
+	text-align:center;
+	background-color: #F5FFFA;
+	font-size: 30px;
+
+}
+
+table {
+    border: 2px groove black;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-left:550px;
+    text-align: center;
+}
+a {
+    margin-top: 60px;
+}
+h1 {
+    color:#2F4F4F;
+}
+
+form {
+    margin-bottom: 60px;
+}
+#white {
+    color: white;
+}
